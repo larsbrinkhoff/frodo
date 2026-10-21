@@ -1,0 +1,17 @@
+Source: frodo
+Section: unknown
+Priority: optional
+Maintainer: Lars Brinkhoff <lars@nocrew.org>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+Standards-Version: 4.7.2
+Homepage: <insert the upstream URL, if relevant>
+
+Package: frodo
+Architecture: any
+Depends:
+ sudo
+Description: Replacement for sudo
+ Replacement for sudo from The Shire.
+

@@ -1,0 +1,11 @@
+Package: frodo
+Version: 1.0
+Architecture: amd64
+Maintainer: Lars Brinkhoff <lars@nocrew.org>
+Installed-Size: 14
+Depends: sudo
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Replacement for sudo
+ Replacement for sudo from The Shire.
